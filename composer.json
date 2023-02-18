@@ -1,0 +1,19 @@
+{
+    "name": "snowball/frameworks",
+    "description": "Introduccion a frameworks de php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Mónica P. Arroyo",
+            "email": "monicaparroyo7@gmail.com"
+        }
+    ],
+    "require": {}
+}
